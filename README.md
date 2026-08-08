@@ -2,7 +2,7 @@
 
 **Paste a link, pick a format, and download.**
 
-Aloy's YouTube Downloader is a standalone Windows utility that grabs YouTube videos and audio in multiple formats. It runs entirely offline. No installation required.
+Aloy's YouTube Downloader is a standalone Windows utility that grabs YouTube videos and audio in multiple formats. No installation required.
 
 > **Note:** This is a closed-source project. All rights are reserved.
 
@@ -49,7 +49,7 @@ Got questions or feedback? Hit me up on Telegram: [@actually_aloy](https://t.me/
 
 ## 🚀 درباره برنامه
 
-**Aloy's YouTube Downloader** یک ابزار دسکتاپ ویندوز برای دانلود ویدیو و صدا از یوتیوب در فرمت‌های مختلف است. این برنامه کاملاً آفلاین اجرا می‌شود و نیازی به نصب ندارد.
+**Aloy's YouTube Downloader** یک ابزار دسکتاپ ویندوز برای دانلود ویدیو و صدا از یوتیوب در فرمت‌های مختلف است. نیازی به نصب ندارد.
 
 > **نکته:** این پروژه متن‌باز نیست و کلیه حقوق آن محفوظ است.
 
