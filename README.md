@@ -6,6 +6,8 @@
 
 Aloy's YouTube Downloader is a simple desktop app for saving YouTube videos as video or audio. It shows you the thumbnail, title, channel and length first, then downloads in the format and quality you choose.
 
+> **Note:** This is a closed-source project. All rights are reserved.
+
 ---
 
 ## 🚀 Features
@@ -21,13 +23,23 @@ Aloy's YouTube Downloader is a simple desktop app for saving YouTube videos as v
 
 ---
 
-## 💻 Installation
+## 💻 Installation (Portable)
 
-1. Download the latest release from the **[Releases page](https://github.com/actually-aloy/aloys-youtube-downloader/releases)**.
-2. If it is a zip, extract it to any folder.
-3. Run the app.
+Fully portable. No installation is needed.
+
+1. Download the latest `.zip` from the **[Releases page](https://github.com/actually-aloy/aloys-youtube-downloader/releases)**.
+2. Extract the zip to any folder on your PC.
+3. Run `Aloys YouTube Downloader.exe` to launch the app.
 
 Want a look first? Try the demo and read the FAQ on the [YouTube Downloader page](https://actually-aloy.github.io/site/ytdownloader).
+
+---
+
+## 📸 Screenshot
+
+<p align="center">
+  <img src="screenshots/main_window.png" alt="Aloy's YouTube Downloader" width="700" />
+</p>
 
 ---
 
@@ -66,6 +78,8 @@ Got questions or feedback? Hit me up on Telegram: [@actually_aloy](https://t.me/
 
 **Aloy's YouTube Downloader** یک برنامه‌ی دسکتاپ ساده برای ذخیره‌ی ویدیوهای یوتیوب به‌صورت ویدیو یا صدا است. اول عکس بندانگشتی، عنوان، کانال و مدت‌زمان را نشان می‌دهد و بعد با فرمت و کیفیتی که انتخاب کرده‌اید دانلود می‌کند.
 
+> **نکته:** این پروژه متن‌باز نیست و کلیه حقوق آن محفوظ است.
+
 ---
 
 ## ✨ امکانات
@@ -81,13 +95,23 @@ Got questions or feedback? Hit me up on Telegram: [@actually_aloy](https://t.me/
 
 ---
 
-## 💻 نصب
+## 💻 نصب (پرتابل / نیازی به نصب نیست)
 
-۱. آخرین نسخه را از صفحه **[Releases](https://github.com/actually-aloy/aloys-youtube-downloader/releases)** دانلود کنید.
-۲. اگر زیپ بود، در هر پوشه‌ای از حالت فشرده خارج کنید.
-۳. برنامه را اجرا کنید.
+کاملاً پرتابل است و نیازی به نصب ندارد.
+
+۱. آخرین فایل `.zip` را از صفحه **[Releases](https://github.com/actually-aloy/aloys-youtube-downloader/releases)** دانلود کنید.
+۲. فایل زیپ را در هر پوشه‌ای روی سیستم خود از حالت فشرده خارج کنید.
+۳. فایل `Aloys YouTube Downloader.exe` را اجرا کنید.
 
 می‌خواهید اول ببینید؟ دمو را امتحان کنید و سؤال‌های رایج را در [صفحه‌ی YouTube Downloader](https://actually-aloy.github.io/site/ytdownloader) بخوانید.
+
+---
+
+## 📸 تصویر
+
+<p align="center">
+  <img src="screenshots/main_window.png" alt="نمای اصلی Aloy's YouTube Downloader" width="700" />
+</p>
 
 ---
 
